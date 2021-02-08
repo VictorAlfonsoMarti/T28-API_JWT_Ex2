@@ -5,7 +5,7 @@
 Ejercicio 2 de la UD28: T28 – API JWT - Añadimos el autentificador usando tokens
 
 ### Base de Datos:
-![image](https://user-images.githubusercontent.com/9554810/107208005-48926f80-6a01-11eb-95a5-bc8660882524.png)
+![image](https://user-images.githubusercontent.com/9554810/107223437-7df58800-6a16-11eb-9844-616dd0f609fa.png)
 
 
 ### Archivo de la Base de Datos:
